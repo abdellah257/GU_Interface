@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/two048.dir/tests/two048.c.o -o two048  libei.a ../_macos/libeibase.a -L/opt/local/lib -lfreeimage -lSDL2 -lSDL2_ttf 

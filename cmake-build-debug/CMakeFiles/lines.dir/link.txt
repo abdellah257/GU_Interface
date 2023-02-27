@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/lines.dir/tests/lines.c.o -o lines  libei.a ../_x11/libeibase64.a -L/home/abdellah/projet_c_v6.0/_x11 -lfreeimage -lSDL2 -lSDL2_ttf -lm 

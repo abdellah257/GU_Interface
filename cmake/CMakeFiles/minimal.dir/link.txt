@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -F /Library/Frameworks/ -framework SDL2 CMakeFiles/minimal.dir/tests/minimal.c.o -o minimal  ../_macos/libeibase.a -L/opt/local/lib -lfreeimage -lSDL2 -lSDL2_ttf 

@@ -1,0 +1,11 @@
+/Users/abdellah/Interface/cmake/CMakeFiles/ei.dir
+/Users/abdellah/Interface/cmake/CMakeFiles/minimal.dir
+/Users/abdellah/Interface/cmake/CMakeFiles/lines.dir
+/Users/abdellah/Interface/cmake/CMakeFiles/frame.dir
+/Users/abdellah/Interface/cmake/CMakeFiles/button.dir
+/Users/abdellah/Interface/cmake/CMakeFiles/hello_world.dir
+/Users/abdellah/Interface/cmake/CMakeFiles/puzzle.dir
+/Users/abdellah/Interface/cmake/CMakeFiles/two048.dir
+/Users/abdellah/Interface/cmake/CMakeFiles/doc.dir
+/Users/abdellah/Interface/cmake/CMakeFiles/edit_cache.dir
+/Users/abdellah/Interface/cmake/CMakeFiles/rebuild_cache.dir
